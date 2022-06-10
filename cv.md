@@ -17,7 +17,11 @@
 
 ### Briefly About Myself
 
-To do...
+I want to become a front-end engineer in several years, using JavaScript, HTML & CSS. My strengths are in fast learning and perseverance. I want to get knowledge and skills that will be enough for employment in a company. 
+
+In my free time, I go to the running, reading and programming.
+
+P. S. And I also have very beautiful eyes...
 
 ---
 
